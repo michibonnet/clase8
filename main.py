@@ -1,3 +1,5 @@
+import problema1
+
 
 '''
 hasta ahora hacemos seguir escribiendo
@@ -56,5 +58,9 @@ if __name__ == '__main__':
     print(lista1)
 
     print(lista1[3])
+
+    print()
+
+    problema1.sumar_5_enteros()
 
 
